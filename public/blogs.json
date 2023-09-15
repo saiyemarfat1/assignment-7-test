@@ -1,0 +1,56 @@
+
+
+
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/CwJzWXj/Rectangle.png",
+      "title": "The Magic of Nature",
+      "author": "Alice Smith",
+      "author_img": "https://i.ibb.co/CsCjBRY/Screenshot-10.png",
+      "post_date": "2023-09-14",
+      "reading_time": 8,
+      "hashtags": ["nature", "magic", "wonders"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/309Cvnt/Rectangle-1-1.png",
+      "title": "Exploring Hidden Realms",
+      "author": "Bob Johnson",
+      "author_img": "https://i.ibb.co/BsXBCJ8/Screenshot-6.png",
+      "post_date": "2023-09-13",
+      "reading_time": 10,
+      "hashtags": ["exploration", "adventure", "mysteries"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/xqGpLQS/Rectangle-1-2.png",
+      "title": "Quest for the Lost Kingdom",
+      "author": "Eva Davis",
+      "author_img": "https://i.ibb.co/PzQV38x/Screenshot-7.png",
+      "post_date": "2023-09-12",
+      "reading_time": 12,
+      "hashtags": ["fantasy", "adventure", "quests"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/D4xgtC3/Screenshot-3.png",
+      "title": "Botanical Wonders",
+      "author": "Daniel White",
+      "author_img": "https://i.ibb.co/4FnLS1L/Screenshot-8.png",
+      "post_date": "2023-09-11",
+      "reading_time": 7,
+      "hashtags": ["botany", "gardens", "plants"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/j6J3WQ5/Screenshot-4.png",
+      "title": "Discovering Oceanic Treasures",
+      "author": "Sophia Lee",
+      "author_img": "https://i.ibb.co/qCc5pHK/Screenshot-9.png",
+      "post_date": "2023-09-10",
+      "reading_time": 15,
+      "hashtags": ["ocean", "adventures", "treasures"]
+    }
+  ]
+  
